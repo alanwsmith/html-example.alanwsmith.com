@@ -1,3 +1,3 @@
-# Alan's Site Builder
+# Alan's HTML Example Web Component 
 
-[site-builder.alanwsmith.com](https://site-builder.ssg.alanwsmith.com/)
+[html-example.alanwsmith.com](https://html-example.ssg.alanwsmith.com/)
